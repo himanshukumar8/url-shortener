@@ -6,7 +6,7 @@ Model:
 
 Reason :
 
-AI became necessary for the project to solve two critical problems which included:
+AI for the project to solve two critical problems which included:
 
 - AI assistance became necessary to solve the PowerShell 'curl' JSON payload issue because PowerShell maps curl to Invoke-WebRequest by default.
 
@@ -14,7 +14,7 @@ AI became necessary for the project to solve two critical problems which include
 
 - AI generated a better .gitignore template which excluded virtual environments and cache files and other unwanted files.
 
-The AI-generated modifications underwent human review to guarantee proper adjustments.
+The AI-generated modifications is checked by me to guarantee proper adjustments.
 
 All other project components including main logic routing tests and structure were independently implemented.
 
